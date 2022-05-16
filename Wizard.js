@@ -3158,17 +3158,17 @@ const message = {
         {
             urlButton: {
                 displayText: 'ɢɪᴛʜᴜʙ',
-                url: gitowner
+                url: 'www.github.com/devil624'
             }
         },{
             urlButton: {
                 displayText: 'sᴄʀɪᴘᴛ',
-                url: sc
+                url: 
             }
         },   {
             urlButton: {
                 displayText: 'ᴏᴡɴᴇʀ',
-                url: 'wa.me/918590508376'
+                url: 'wa.me/918111869080'
             }
         }, {
             quickReplyButton: {
